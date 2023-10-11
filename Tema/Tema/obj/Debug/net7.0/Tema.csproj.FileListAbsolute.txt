@@ -1,0 +1,15 @@
+C:\Users\P701\Desktop\fac\Year 2\Sem 1\Optional\Tema\Tema\bin\Debug\net7.0\Tema.exe
+C:\Users\P701\Desktop\fac\Year 2\Sem 1\Optional\Tema\Tema\bin\Debug\net7.0\Tema.deps.json
+C:\Users\P701\Desktop\fac\Year 2\Sem 1\Optional\Tema\Tema\bin\Debug\net7.0\Tema.runtimeconfig.json
+C:\Users\P701\Desktop\fac\Year 2\Sem 1\Optional\Tema\Tema\bin\Debug\net7.0\Tema.dll
+C:\Users\P701\Desktop\fac\Year 2\Sem 1\Optional\Tema\Tema\bin\Debug\net7.0\Tema.pdb
+C:\Users\P701\Desktop\fac\Year 2\Sem 1\Optional\Tema\Tema\obj\Debug\net7.0\Tema.csproj.AssemblyReference.cache
+C:\Users\P701\Desktop\fac\Year 2\Sem 1\Optional\Tema\Tema\obj\Debug\net7.0\Tema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P701\Desktop\fac\Year 2\Sem 1\Optional\Tema\Tema\obj\Debug\net7.0\Tema.AssemblyInfoInputs.cache
+C:\Users\P701\Desktop\fac\Year 2\Sem 1\Optional\Tema\Tema\obj\Debug\net7.0\Tema.AssemblyInfo.cs
+C:\Users\P701\Desktop\fac\Year 2\Sem 1\Optional\Tema\Tema\obj\Debug\net7.0\Tema.csproj.CoreCompileInputs.cache
+C:\Users\P701\Desktop\fac\Year 2\Sem 1\Optional\Tema\Tema\obj\Debug\net7.0\Tema.dll
+C:\Users\P701\Desktop\fac\Year 2\Sem 1\Optional\Tema\Tema\obj\Debug\net7.0\refint\Tema.dll
+C:\Users\P701\Desktop\fac\Year 2\Sem 1\Optional\Tema\Tema\obj\Debug\net7.0\Tema.pdb
+C:\Users\P701\Desktop\fac\Year 2\Sem 1\Optional\Tema\Tema\obj\Debug\net7.0\Tema.genruntimeconfig.cache
+C:\Users\P701\Desktop\fac\Year 2\Sem 1\Optional\Tema\Tema\obj\Debug\net7.0\ref\Tema.dll
